@@ -6,8 +6,8 @@ Launch a raspberry pi into the sky measuring and recording accelerometer data al
 ### Methond
 Using a air canon we will launch a inclosed capsule which will hold a Raspberry Pi, accelerometer, battery, and parachute to slow its decent.
 there air canon can additionally be mounted on a platform of some kind which can be adjusted or just held
-### Materials
-#### !. PVC tubing
+#### Materials
+!. PVC tubing
 2. Valve
 3. air hose
 4. air compressor
