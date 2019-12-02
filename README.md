@@ -21,8 +21,7 @@ there air canon can additionally be mounted on a platform of some kind which can
 11. fittings
 12. PVC glue/sealent
 ### Timeline
-#### 5 week plan
-1-2. planning and modeling
-3-4. construction testing/Coding
-5. troubleshooting and polishing
+weeks 1-2: planning and modeling
+weeks 3-4: construction testing/Coding
+week 5: troubleshooting and polishing
 ### Inital Design
