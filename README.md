@@ -5,7 +5,7 @@ Our first semester project
 Launch a raspberry pi into the sky measuring and recording accelerometer data along it's flight and ensure that the pi is not broken when it lands.
 ### Methond
 Using a air canon we will launch a inclosed capsule which will hold a Raspberry Pi, accelerometer, battery, and parachute to slow its decent.
-there air canon can additionally be mounted on a platform of some kind which can be adjusted or just held
+the air canon can additionally be mounted on a platform of some kind which can be adjusted or just held
 ### Materials
 #### 1 - 12
 1. PVC tubing
