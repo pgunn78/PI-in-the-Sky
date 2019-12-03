@@ -25,3 +25,4 @@ weeks 1-2: planning and modeling
 weeks 3-4: construction testing/Coding
 week 5: troubleshooting and polishing
 ### Inital Design
+![Inital Design](https://drive.google.com/drive/folders/1iUdTW36hJb27-zo4ejjXmfmp4jNzXrf4)
