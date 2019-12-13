@@ -3,9 +3,9 @@ Our first semester project
 ## Planning
 ### Goals
 Launch a raspberry pi into the sky measuring and recording accelerometer data along it's flight and ensure that the pi is not broken when it lands.
-### Methond
+### Method
 Using a air canon we will launch a inclosed capsule which will hold a Raspberry Pi, accelerometer, battery, and parachute to slow its decent.
-the air canon can additionally be mounted on a platform of some kind which can be adjusted or just held
+(Optional) the air canon can additionally be mounted on a platform of some kind which can be adjusted or just held
 ### Materials
 #### 1 - 12
 1. PVC tubing
@@ -21,8 +21,19 @@ the air canon can additionally be mounted on a platform of some kind which can b
 11. fittings
 12. PVC glue/sealent
 ### Timeline
-weeks 1-2: planning and modeling
-weeks 3-4: construction testing/Coding
-week 5: troubleshooting and polishing
+#### weeks 1-2: planning and modeling
+-finish projectile model
+-decide on launch method
+-start design of launch methond
+-source springs and materials
+#### weeks 3-4: construction testing/Coding
+-find out how to determine tilt
+-build launch method
+-assemble projectile
+#### week 5: troubleshooting and polishing
+-ensure that projectile stays level in flight
+-work out kinks in parachute deployment
 ### Inital Design
 ![Inital Design](https://drive.google.com/drive/folders/1iUdTW36hJb27-zo4ejjXmfmp4jNzXrf4)
+### Solidworks Design
+
