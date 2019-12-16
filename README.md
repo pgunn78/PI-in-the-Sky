@@ -36,4 +36,7 @@ Using a air canon we will launch a inclosed capsule which will hold a Raspberry 
 ### Inital Design
 ![Inital Design](https://drive.google.com/drive/folders/1iUdTW36hJb27-zo4ejjXmfmp4jNzXrf4)
 ### Solidworks Design
+### Code 
+we need to measure and record the data from our accelerometer as well as using the data to determine tilt of the projectile while ignoring acceleration 
+https://www.nxp.com/docs/en/application-note/AN3107.pdf
 
