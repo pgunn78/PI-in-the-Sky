@@ -40,7 +40,6 @@ Using a air canon we will launch a inclosed capsule which will hold a Raspberry 
 #### week 11: Launch
 -launch projectile get data and assemble it into more easily understood graph
 ### Inital Design
-![Inital Design](https://drive.google.com/drive/folders/1iUdTW36hJb27-zo4ejjXmfmp4jNzXrf4)
 ### Solidworks Design
 ### Code 
 
