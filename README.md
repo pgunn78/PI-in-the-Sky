@@ -6,7 +6,7 @@ Launch a raspberry pi into the sky measuring and recording accelerometer data al
 ### Method
 Using a air canon we will launch a inclosed capsule which will hold a Raspberry Pi which will be the brain of the missle, accelerometer to both measure its momentum and to know when to trigger its parachute, battery to power the Pi and Acclerometer, and parachute to slow its decent once its triggered. We can additionaly attempt to mount the air canon on somesort of mount so that it's easier to handel
 ### Materials
-#### 1 - 12
+#### 1 - 17
 1. PVC tubing both 2 inch and 3 inch
 2. Valve
 3. air compressor
@@ -50,4 +50,5 @@ While doing the solidworks design the most major problem that we encountered was
 ### Construction of the Projectile
 the largest problems in the construction of the Projectile was the header hight, PCB milling and sourcing of materials. When milling our PCB we broke the job into two different sections due to class time limitations, cutting the traces or the copper wire paths first, and then drilling the holes for the headers. this caused the holes and traces to become slightly misaligned although it did not significantly damage the board or prevent it from working. the Headers on the PCB also prevented the midplane from sliding in due to their hight to fix this we bent the header pins down in the process breaking one of the copper traces which was repaired using a section of wire which was striped of insulations and soldered on.
 ### Construction of the Launcher
-We had only two problems while building the air canon both relating to air escapin
+We had a problem with both the seals on the launcher and the size of the launch tube. the first tube we chose to use being a 3inch tube whitch served to be two narrow to fit the projectile with the fin connections points prompting us to go up a tube size requiring a four inch diameter tube presenting a additional problem where air would escape past the sides of the projectile which was fixed by placing a end cap behind the projectile catching all the air. To fix the seals on the launcher we had to both retape the fittings using a large amount of plumbers tape and switch out the schrodinger valves we were using to another company which proved to be more reliable.
+### Code
