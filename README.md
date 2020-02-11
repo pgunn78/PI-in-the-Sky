@@ -39,7 +39,9 @@ Using a air canon we will launch a inclosed capsule which will hold a Raspberry 
 #### week 11: Launch
 -launch projectile get data and assemble it into more easily understood graph
 ### Inital Design
+![Alt Text](https://github.com/pgunn78/PI-in-the-Sky/blob/master/IMG-0793.jpg)
 ### Solidworks Design
+![Alt Text](https://github.com/pgunn78/PI-in-the-Sky/blob/master/Complete%20and%20Stabalized.PNG)
 ### Code 
 
 ## Problems and Solutions
