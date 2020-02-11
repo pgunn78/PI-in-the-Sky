@@ -6,7 +6,6 @@ Launch a raspberry pi into the sky measuring and recording accelerometer data al
 ### Method
 Using a air canon we will launch a inclosed capsule which will hold a Raspberry Pi which will be the brain of the missle, accelerometer to both measure its momentum and to know when to trigger its parachute, battery to power the Pi and Acclerometer, and parachute to slow its decent once its triggered. We can additionaly attempt to mount the air canon on somesort of mount so that it's easier to handel
 ### Materials
-#### 1 - 17
 1. PVC tubing both 2 inch and 3 inch
 2. Valve
 3. air compressor
