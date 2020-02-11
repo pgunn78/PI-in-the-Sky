@@ -42,6 +42,7 @@ Using a air canon we will launch a inclosed capsule which will hold a Raspberry 
 ![Alt Text](https://github.com/pgunn78/PI-in-the-Sky/blob/master/IMG-0793.jpg)
 ### Solidworks Design
 ![Alt Text](https://github.com/pgunn78/PI-in-the-Sky/blob/master/Complete%20and%20Stabalized.PNG)
+![Alt Text](https://github.com/pgunn78/PI-in-the-Sky/blob/master/complete%20section%20view.PNG)
 ### Code 
 
 ## Problems and Solutions
