@@ -43,6 +43,8 @@ Using a air canon we will launch a inclosed capsule which will hold a Raspberry 
 ### Solidworks Design
 ![Alt Text](https://github.com/pgunn78/PI-in-the-Sky/blob/master/Complete%20and%20Stabalized.PNG)
 ![Alt Text](https://github.com/pgunn78/PI-in-the-Sky/blob/master/complete%20section%20view.PNG)
+#### Design Overview
+The components such as the Pi and battery are mounted on the midplane and held in place by a cap which has a hole cut in the center to run wires to a servo. Which opens to release the parachute hatch to slow down the projectile once the projectile reaches its maximum altitude
 ### Code 
 
 ## Problems and Solutions
