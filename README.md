@@ -57,3 +57,7 @@ the largest problems in the construction of the Projectile was the header hight,
 ### Construction of the Launcher
 We had a problem with both the seals on the launcher and the size of the launch tube. the first tube we chose to use being a 3inch tube whitch served to be two narrow to fit the projectile with the fin connections points prompting us to go up a tube size requiring a four inch diameter tube presenting a additional problem where air would escape past the sides of the projectile which was fixed by placing a end cap behind the projectile catching all the air. To fix the seals on the launcher we had to both retape the fittings using a large amount of plumbers tape and switch out the schrodinger valves we were using to another company which proved to be more reliable.
 ### Code
+## Test 1
+For the First test we dropped the projectile from the 2nd floor down to the first floor cushioning the impact. several weak points arose the first of which being the thickness of the fin supports which broke on impact, and the second being the mating between the threads which proved to weak to hold the projectile together and had to be secured using tape.
+### Solution
+to fix this we thickened the supports and added fillits to them within the solidworks design to both arrest movement horizontaly and verticaly. Additionally we widened the holes where the rubberbands were secured for ease of construction in the future.
