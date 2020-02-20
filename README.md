@@ -59,6 +59,8 @@ We had a problem with both the seals on the launcher and the size of the launch 
 ### Code
 We had some problmes in the beginging with twitching servos and unrleliable movment. This problem was solved when we implemented the pigpio library wich allows us to smooth out our data signals. Our code runns as soon as our pi turns on allowing us to not only capture data of the flight but also the launch getting this to happen was innitally a problem due to the fact taht multiple words in the command were misspeld. Most importantly we have our code set up to record all of our data into a file called flightlog.
 ## Test 1
-For the First test we dropped the projectile from the 2nd floor down to the first floor cushioning the impact. several weak points arose the first of which being the thickness of the fin supports which broke on impact, and the second being the mating between the threads which proved to weak to hold the projectile together and had to be secured using tape.
+For the First test we dropped the projectile from the 2nd floor down to the first floor cushioning the impact, and testing the fins ability to stabalize flight. Several weak points arose the first of which being the thickness of the fin supports, which broke on impact, and the second being the mating between the threads which proved to weak to hold the projectile together and had to be secured using tape.
+
+<img src="https://github.com/pgunn78/PI-in-the-Sky/blob/master/Test%201.jpg" width="500" height="500">
 ### Solution
-to fix this we thickened the supports and added fillits to them within the solidworks design to both arrest movement horizontaly and verticaly. Additionally we widened the holes where the rubberbands were secured for ease of construction in the future.
+to fix this we thickened the supports and added fillets to them within the solidworks design to both arrest movement horizontaly and verticaly. Additionally we widened the holes where the rubberbands were secured for ease of construction in the future.
