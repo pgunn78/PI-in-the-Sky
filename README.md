@@ -86,6 +86,9 @@ while True:
 
 ```
 
+### Wiring and PCB design
+![Alt Text](https://github.com/pgunn78/PI-in-the-Sky/blob/master/fritzing.PNG)
+
 ## Problems and Solutions
 ### SolidWorks
 While doing the solidworks design the most major problem that we encountered was material use, sizeing of the projectile, and space efficiency. due to it's cylindrical shape the space inside was not the easiest to utalize properly and effectlivly while still securing the components so that they won't shift during flight. To fix this we added a midplane to secure the components onto and added another plane above that to fix the midplane during flight. In addition to providing a place to mount components this also provides ease of construction allowing us to fix all components before sliding the midplane into the projectile where there is much less space to work. by designing the projectile in a fairly bullet like shape we made it difficult for the projectile to be printed without a large amount of support material to minimize the support material needed we added a steeper slope to the shape and went into the advanced settings of the print job turning the angle down where support material was needed and allowing us to print the entire part without any material needed for the central point. The last major problem that we encountered was the sizing of certain features such as the threads which were done using the solidworks thread tool (Creating suprisingly good results). this could still present a problem as the ABC plastic is maluable enough to where a impact from the side can seperate the two pieces. Which might cause the parachute compartment to breakup when deployed spilling the internals out mid-flight, but it seems like a fairly strong connection along the length of the projectile.
