@@ -15,6 +15,11 @@ print(pi.get_PWM_frequency(17))
 lsm303 = Adafruit_LSM303.LSM303()
 
 
+accel, mag = lsm303.read()
+accel_x, accel_y, accel_z = accel
+mag_x, mag_y, mag_z = mag
+angle = mag_x
+
 while True:
     # Read the X, Y, Z axis acceleration values and print them. accel is the acceleration mag is the direction/angle
     accel, mag = lsm303.read()
@@ -22,7 +27,7 @@ while True:
     accel_x, accel_y, accel_z = accel
     mag_x, mag_y, mag_z = mag
 
-    if 540 > mag_x > 510:
+    if mag_x > angle:
         pi.set_servo_pulsewidth(17,500)
         sleep(1)
         pi.set_servo_pulsewidth(17,2500)
