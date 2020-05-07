@@ -120,4 +120,4 @@ In the second test we dropped the projectile from the roof with the parachute at
 <img src="https://github.com/pgunn78/PI-in-the-Sky/blob/master/IMG-0897.jpg" width="500" height="500">
 
 ### Solution
-we didn't change anything about the fins as we have additional parts to replace them with one possible solution in the future being to cut or mill them from a stronger material.
+we didn't change anything about the fins as we have additional parts to replace them with one possible solution in the future being to cut or mill them from a stronger/thicker material.
